@@ -4,9 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-2808&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-2808" /> </p>
 
 - ⚡ Fun fact **It works, but I don’t know why**
-- 
-<div class="tenor-gif-embed" data-postid="10599410442824479167" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-gif-10599410442824479167">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-![GIF](https://tenor.com/mM9zIXYnDOd.gif)
+
+<p align="right"> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGcyMzZrMzhqdTllZzRqNjExanF3aWVhajM5OWdxbG5uNXRodWw5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif">
+
+
+  
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://linkedin.com/in/madhav-singh-375436230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-singh-375436230" height="30" width="40" /></a>
