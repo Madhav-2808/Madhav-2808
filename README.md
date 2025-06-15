@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-2808&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-2808" /> </p>
 
 - ⚡ Fun fact **It works, but I don’t know why**
-
+<img src="gitmo.png" width="400">
 <p align="right"> 
+  
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGcyMzZrMzhqdTllZzRqNjExanF3aWVhajM5OWdxbG5uNXRodWw5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif">
 
 
